@@ -1,0 +1,4 @@
+C:\Users\Maxim_Khvostov\AppData\Local\JetBrains\CLion2021.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/cygdrive/d/default/jetbrains-toolbox/tools/apps/CLion/ch-0/213.5744.254/bin/ninja/cygwin/ninja.exe -G Ninja /cygdrive/p/project/makentoshe-arduino-pid-test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/p/project/makentoshe-arduino-pid-test/cmake-build-debug
